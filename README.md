@@ -1,7 +1,7 @@
 # Customer Trends Data Analysis (SQL, Python & Power BI)
 
 ## Overview
-This end-to-end data analytics project analyzes customer shopping data to uncover purchasing patterns, customer behavior trends, and actionable business insights[span_1](start_span)[span_1](end_span). Using Python for exploratory data analysis (EDA) and data cleaning, SQL for data aggregation and query analysis, and Power BI for interactive dashboard creation, this project transforms complex raw data into business-driven solutions[span_2](start_span)[span_2](end_span).
+This end-to-end data analytics project analyzes customer shopping data to uncover purchasing patterns, customer behavior trends, and actionable business insights. Using Python for exploratory data analysis (EDA) and data cleaning, SQL for data aggregation and query analysis, and Power BI for interactive dashboard creation, this project transforms complex raw data into business-driven solutions.
 
 ---
 
